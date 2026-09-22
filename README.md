@@ -66,8 +66,6 @@ My development phase will follow after completing the current DSA stage of my le
 ### 🌾 Farmer Procurement Platform
 
 A prototype developed for the **Smart India Hackathon 2026 internal college round**, focused on improving the farmer procurement and slot-booking process.
-
-The project explores features such as centre-based booking, queue management, weather-aware scheduling, payment tracking, and grievance handling.
 ---
 
 ## 🎯 Future Goals
